@@ -148,7 +148,9 @@ public class Board extends JPanel implements ActionListener {
 		CheckMaze();
 
 	}
-
+	
+	//public void sampleMethod(){
+	} 
 
 	public void ShowIntroScreen(Graphics2D g2d) {
 
